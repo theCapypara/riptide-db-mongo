@@ -1,4 +1,4 @@
-__version__ = '0.6.0'
+__version__ = '0.7.0'
 from setuptools import setup, find_packages
 
 # README read-in
@@ -15,9 +15,9 @@ setup(
     description='Tool to manage development environments for web applications using containers - MongoDB Driver',
     long_description=long_description,
     long_description_content_type='text/x-rst',
-    url='https://github.com/Parakoopa/riptide-db-mongo/',
+    url='https://github.com/theCapypara/riptide-db-mongo/',
     install_requires=[
-        'riptide-lib >= 0.6, < 0.7',
+        'riptide-lib >= 0.7, < 0.8',
         'schema >= 0.7'
     ],
     classifiers=[
@@ -29,6 +29,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
     ],
     entry_points='''
         [riptide.db_driver]
