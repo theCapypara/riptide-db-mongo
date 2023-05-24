@@ -32,7 +32,7 @@
 
 |build| |docs| |pypi-version| |pypi-downloads| |pypi-license| |pypi-pyversions|
 
-.. |build| image:: https://img.shields.io/github/actions/workflow/status/theCapypara/riptide-db-mongo/build-test-publish.yml
+.. |build| image:: https://img.shields.io/github/actions/workflow/status/theCapypara/riptide-db-mongo/build.yml
     :target: https://github.com/theCapypara/riptide-db-mongo/actions
     :alt: Build Status
 
