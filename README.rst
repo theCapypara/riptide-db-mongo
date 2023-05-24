@@ -64,7 +64,7 @@ as if you were running it natively, without the need to install any other requir
 the project may have.
 
 Database-Driver: MongoDB
-----------------------
+------------------------
 
 This repository implements the database driver interface of the Riptide library for use
 with MongoDB-compatible databases. This allows users to manage MongoDB databases within
